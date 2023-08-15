@@ -1,2 +1,2 @@
 # ENEN3150 Pattern Recognition
- This is the Machie Module. Excersize codes , Test codes , Project codes will be updated
+ This is the Machine Module. Exercise codes, Test codes, and Project codes will be updated
