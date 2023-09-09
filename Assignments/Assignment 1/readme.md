@@ -1,9 +1,2 @@
-```js
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.preprocessing import StandardScaler
-
-# This is a code block
-```
+##### Pattern Recognition Assignment 1
+`This is Based on Regression , Data Related challenges , Impact of outliers`
